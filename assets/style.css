@@ -1,0 +1,7 @@
+.all-products-category {
+    overflow: hidden;
+}
+.all-products-category .all-products-list {
+    transition: height 0.4s;
+    height: 0;
+}
